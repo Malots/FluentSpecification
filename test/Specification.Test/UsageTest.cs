@@ -4,11 +4,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Specification.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class UsageTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void GiveAValidValudAllSpecificationReturnTrue()
         {
+            Assert.Fail();
         }
     }
 }
