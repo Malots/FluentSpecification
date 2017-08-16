@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Malots.FluentSpecification.Specification</id>
+    <version>$version$</version>
+    <title>Fluent Specification</title>
+    <authors>leovene</authors>
+    <owners>Malots</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Validation specification package</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Specification Validation</tags>
+  </metadata>
+</package>
