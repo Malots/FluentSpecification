@@ -11,6 +11,6 @@
             this.right = right;
         }
 
-        public override bool IsSatisfiedBy(T candidate) => left.IsSatisfiedBy(candidate) && right.IsSatisfiedBy(candidate);
+        public override bool IsSatisfiedBy(T obj) => left.IsSatisfiedBy(obj) && right.IsSatisfiedBy(obj);
     }
 }
