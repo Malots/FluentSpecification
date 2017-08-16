@@ -11,6 +11,5 @@ namespace FluentSpecification
         public ISpecification<T> Or(ISpecification<T> obj) => new OrSpecification<T>(this, obj);
         public ISpecification<T> OrNot(ISpecification<T> obj) => new OrNotSpecification<T>(this, obj);
         public ISpecification<T> Not() => new NotSpecification<T>(this);
-        public ISpecification<T> Equal(ISpecification<T> obj) => new EqualSpecification<T>(this, obj);
     }
 }

@@ -8,6 +8,5 @@
         ISpecification<T> Or(ISpecification<T> obj);
         ISpecification<T> OrNot(ISpecification<T> obj);
         ISpecification<T> Not();
-        ISpecification<T> Equal(ISpecification<T> obj);
     }
 }
