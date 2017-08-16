@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>FluentSpecification</AssemblyName>
+    <RootNamespace>FluentSpecification</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Malots.FluentSpecification.Specification</PackageId>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Authors>leonardovene</Authors>
+    <Company>Malots</Company>
+    <Description>Validation specification package</Description>
+    <Copyright>Malots</Copyright>
+    <PackageTags>specification validation</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.CommandLine" Version="4.1.0" />
+  </ItemGroup>
+
+</Project>

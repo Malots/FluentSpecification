@@ -1,7 +1,7 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Specification.Test
+namespace FluentSpecification.Test
 {
     [TestClass]
     public class UsageTest

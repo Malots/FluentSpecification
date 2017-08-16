@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Specification
+namespace FluentSpecification
 {
     public abstract class CompositeSpecification<T> : ISpecification<T>
     {

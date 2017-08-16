@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Malots.FluentSpecification.Specification</id>
+    <id>Malots.FluentSpecification.FluentSpecification</id>
     <version>$version$</version>
     <title>Fluent Specification</title>
     <authors>leovene</authors>

@@ -1,4 +1,4 @@
-﻿namespace Specification
+﻿namespace FluentSpecification
 {
     public class OrNotSpecification<T> : CompositeSpecification<T>
     {
