@@ -13,6 +13,7 @@
 - .NET CLI -> dotnet add package Malots.FluentSpecification.Specification --version 1.0.1
 
 ## Example:
+
 - Check the units tests project
 - Example:  var value = "stringcontent_";
             var lengthSpecification = new StringLengthSpecification<string>();
