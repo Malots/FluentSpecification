@@ -14,8 +14,7 @@
 
 ## Example:
 - Check the units tests project
-- Example: 
- - var value = "stringcontent_";
+- Example:  var value = "stringcontent_";
             var lengthSpecification = new StringLengthSpecification<string>();
             var characterSpecification = new StringCharacterSpecification<string>();
             var andSpecification = lengthSpecification.And(characterSpecification);
