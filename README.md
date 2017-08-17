@@ -1,8 +1,7 @@
 # FluentSpecification
 Validation specification package .NET CORE
 
-#Nuget
-This package is host in Nuget with the name "Malots.FluentSpecification.Specification"
+#This package is host in Nuget with the name "Malots.FluentSpecification.Specification"
 Choose the last version 
 Command to install:
 
