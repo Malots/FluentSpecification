@@ -12,6 +12,10 @@
     <Description>Validation specification package</Description>
     <Copyright>Malots</Copyright>
     <PackageTags>specification validation</PackageTags>
+    <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/Malots/FluentSpecification</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Malots/FluentSpecification</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
