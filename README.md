@@ -1,6 +1,6 @@
 # FluentSpecification
 
-- Validation Package build in .NET Core  SDK.
+- Validation Package written in .NET Core  SDK.
 
 ## Nuget:
 
