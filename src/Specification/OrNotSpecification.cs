@@ -1,6 +1,6 @@
 ﻿namespace FluentSpecification
 {
-    public class OrNotSpecification<T> : CompositeSpecification<T>
+    public class OrNotSpecification<T> : Specification<T>
     {
         ISpecification<T> left;
         ISpecification<T> right;

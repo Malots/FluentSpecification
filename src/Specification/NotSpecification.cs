@@ -1,6 +1,6 @@
 ﻿namespace FluentSpecification
 {
-    public class NotSpecification<T> : CompositeSpecification<T>
+    public class NotSpecification<T> : Specification<T>
     {
         ISpecification<T> right;
         public NotSpecification(ISpecification<T> right) => this.right = right;

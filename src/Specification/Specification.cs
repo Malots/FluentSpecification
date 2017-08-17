@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 namespace FluentSpecification
 {
-    public abstract class CompositeSpecification<T> : ISpecification<T>
+    public abstract class Specification<T> : ISpecification<T>
     {
         public abstract bool IsSatisfiedBy(T obj);
         public ISpecification<T> And(ISpecification<T> obj) => new AndSpecification<T>(this, obj);

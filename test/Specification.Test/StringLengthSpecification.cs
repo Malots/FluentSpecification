@@ -1,6 +1,6 @@
 ﻿namespace FluentSpecification.Test
 {
-    public class StringLengthSpecification<T> : CompositeSpecification<T>
+    public class StringLengthSpecification<T> : Specification<T>
     {
         public override bool IsSatisfiedBy(T obj)
         {

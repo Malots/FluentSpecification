@@ -1,6 +1,6 @@
 ﻿namespace FluentSpecification.Test
 {
-    public class StringCharacterSpecification<T> : CompositeSpecification<T>
+    public class StringCharacterSpecification<T> : Specification<T>
     {
         public override bool IsSatisfiedBy(T obj)
         {

@@ -1,6 +1,6 @@
 ﻿namespace FluentSpecification
 {
-    public class AndNotSpecification<T> : CompositeSpecification<T>
+    public class AndNotSpecification<T> : Specification<T>
     {
         ISpecification<T> left;
         ISpecification<T> right;
