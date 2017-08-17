@@ -1,5 +1,5 @@
 # FluentSpecification
-Validation specification package
+Validation specification package .NET CORE
 
 #Nuget
 This package is host in Nuget with the name "Malots.FluentSpecification.Specification"
