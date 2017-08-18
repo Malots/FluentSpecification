@@ -16,6 +16,7 @@
     <PackageProjectUrl>https://github.com/Malots/FluentSpecification</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Malots/FluentSpecification</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
